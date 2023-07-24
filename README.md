@@ -1,6 +1,6 @@
 # VAR
 基于QT开发的录屏录音软件VAR-Video & Audio Recorder
-(软件在master分支中!）
+(软件在master分支中!,下载即可安装使用）
 
 基于QT开发了具有多设备录屏录音功能并支持实时预览和实时渲染的软件。
 
